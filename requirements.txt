@@ -1,0 +1,3 @@
+# STREAMING_CHUNK:Specifying required libraries and versions...
+streamlit
+pandas
